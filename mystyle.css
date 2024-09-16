@@ -1,0 +1,13 @@
+body {background-color: #172940;
+h1 {color: #F2EEE5
+}
+h1 { text-align: center;}
+    width:800px;
+    margin:0 auto;
+}
+p {color:#F2EEE5}
+#nav_table {width: 800px;}
+#nav_td {width: 266px; text-align: center;}
+#about_me {background-image: url(my_bg.jpg);}
+#image_lay {width: 800px;}
+#images_td {width: 266px;}
